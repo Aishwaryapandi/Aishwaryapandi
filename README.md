@@ -33,3 +33,8 @@ Welcome to my GitHub profile! I’m currently in my third year of B.Tech Informa
 - **English:** Fluent
 - **Tamil:** Native
 - **Hindi:** Conversational
+
+## 📫 How to Reach Me
+
+- **LinkedIn:** [[Aishwarya P](https://www.linkedin.com/in/aishwarya-p/)]
+- **Email:** [aishwaryapandi958@gmail.com](aishwaryapandi958@gmail.com)
