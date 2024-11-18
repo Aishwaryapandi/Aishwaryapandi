@@ -16,3 +16,20 @@ Welcome to my GitHub profile! I’m currently in my third year of B.Tech Informa
   - Participant in the iTech Hackfest 2024 (National Hackathon)
   - Certified in SQL Basics (Skill Rack)
   - Completed 12 self-learning courses on MongoDB (ICT Academy)
+
+## 🚀 My Current Focus
+
+- Strengthening my expertise in **full-stack development** with technologies like Node.js and JavaScript
+- Developing responsive and **user-friendly web designs** with a focus on modern UI/UX practices
+- Working on a **booking and enquiry system** with dynamic features and live data visualization
+
+## 🌱 What I’m Passionate About
+
+- **Web Development:** Crafting responsive and interactive websites that deliver seamless user experiences
+- **Problem-Solving:** Tackling real-world challenges by building innovative and practical solutions
+
+## 📝 Languages
+
+- **English:** Fluent
+- **Tamil:** Native
+- **Hindi:** Conversational
