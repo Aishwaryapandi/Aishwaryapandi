@@ -36,5 +36,5 @@ Welcome to my GitHub profile! I’m currently in my third year of B.Tech Informa
 
 ## 📫 How to Reach Me
 
-- **LinkedIn:** [[Aishwarya P](https://www.linkedin.com/in/aishwarya-p/)]
+- **LinkedIn:** [[Aishwarya P](https://www.linkedin.com/in/aishwarya-p-it-student-614ba5263/)]
 - **Email:** [aishwaryapandi958@gmail.com](aishwaryapandi958@gmail.com)
