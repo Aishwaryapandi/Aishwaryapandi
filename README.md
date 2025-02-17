@@ -21,24 +21,25 @@ Welcome to my GitHub profile! I’m currently in my **third year of B.Tech Infor
 
 ### 💻 Web Development Intern
 **Company:** CodSoft  
-**Duration:** February 2024 – March 2024  
+**Duration:** February 15, 2024 – March 15, 2024  
 **Achievements:**  
-✅ Completed a **4-week hands-on internship** in **HTML**, **CSS**, and **JavaScript**.  
-✅ Delivered **3 web projects**, including a **portfolio website**, **to-do list app**, and **blog page**.  
-✅ Strengthened frontend development skills and knowledge of **UI/UX best practices**.
+✅ Successfully completed a **4-week hands-on training internship**.  
+✅  Delivered **3 projects**, applying skills in **HTML, CSS, and JavaScript**.  
+✅ Improved **frontend design skills** and gained experience in **responsive web development**.
 
 ### ☕ Java Development Intern
 **Company:** CodeAlpha  
-**Duration:** October 2024 – October 2024  
+**Duration:** October 01, 2024 – October 30, 2024  
 **Achievements:**  
-✅ Completed a **4-week virtual internship** focusing on **Java programming**.  
-✅ Developed **2 Java-based projects** using **OOP concepts**, **file handling**, and **JDBC**.  
-✅ Enhanced knowledge in **multithreading**, **exception handling**, and **collections framework**.
+✅ Successfully Completed a **4-week internship** focusing on **Java programming**.  
+✅ Developed **3 Java-based projects**.  
+✅ Earned a **Certificate of Completion** for outstanding performance.  
 
 ### 💻 Full Stack & Cloud Hosting Intern
 **Company:** Futurik Technologies  
-**Duration:** January 2025 – February 2025  
-**Achievements:**  
+**Duration:** January 02, 2025 – February 02, 2025  
+**Achievements:** 
+✅ Completed a **4-week internship** under the guidance of a **dedicated mentor**.
 ✅ Worked on a travel agency website project named **"Vacation Vibes"**, hosted on the company's cloud domain.  
 ✅ Improved skills in **full-stack development**, **cloud deployment**, and **responsive web design**.  
 ✅ Received mentorship with regular classes and task assignments.
