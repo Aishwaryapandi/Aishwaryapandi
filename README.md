@@ -16,6 +16,32 @@ Welcome to my GitHub profile! I’m currently in my **third year of B.Tech Infor
   - Participant in the iTech Hackfest 2024 (National Hackathon)
   - Certified in SQL Basics (Skill Rack)
   - Completed 12 self-learning courses on MongoDB (ICT Academy)
+ 
+## 🚀 Internship Experience
+
+### 💻 Web Development Intern
+**Company:** CodSoft  
+**Duration:** February 2024 – March 2024  
+**Achievements:**  
+✅ Completed a **4-week hands-on internship** in **HTML**, **CSS**, and **JavaScript**.  
+✅ Delivered **3 web projects**, including a **portfolio website**, **to-do list app**, and **blog page**.  
+✅ Strengthened frontend development skills and knowledge of **UI/UX best practices**.
+
+### ☕ Java Development Intern
+**Company:** CodeAlpha  
+**Duration:** October 2024 – October 2024  
+**Achievements:**  
+✅ Completed a **4-week virtual internship** focusing on **Java programming**.  
+✅ Developed **2 Java-based projects** using **OOP concepts**, **file handling**, and **JDBC**.  
+✅ Enhanced knowledge in **multithreading**, **exception handling**, and **collections framework**.
+
+### 💻 Full Stack & Cloud Hosting Intern
+**Company:** Futurik Technologies  
+**Duration:** January 2025 – February 2025  
+**Achievements:**  
+✅ Worked on a travel agency website project named **"Vacation Vibes"**, hosted on the company's cloud domain.  
+✅ Improved skills in **full-stack development**, **cloud deployment**, and **responsive web design**.  
+✅ Received mentorship with regular classes and task assignments.
 
 ## 🚀 My Current Focus
 
