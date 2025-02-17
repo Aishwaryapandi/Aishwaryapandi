@@ -39,7 +39,7 @@ Welcome to my GitHub profile! I’m currently in my **third year of B.Tech Infor
 **Company:** Futurik Technologies  
 **Duration:** January 02, 2025 – February 02, 2025  
 **Achievements:**                 
-✅ Completed a **4-week internship** under the guidance of a **dedicated mentor**.
+✅ Completed a **4-week internship** under the guidance of a **dedicated mentor**.     
 ✅ Worked on a travel agency website project named **"Vacation Vibes"**, hosted on the company's cloud domain.  
 ✅ Improved skills in **full-stack development**, **cloud deployment**, and **responsive web design**.  
 ✅ Received mentorship with **regular classes and task assignments**.
